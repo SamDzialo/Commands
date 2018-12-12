@@ -1,5 +1,4 @@
 """
-file: Lab05.py
 author: Sam Dzialo
 Email: sad8333@rit.edu
 language: python3.7
